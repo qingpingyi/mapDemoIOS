@@ -45,7 +45,6 @@
     [self.compositeManager presentRoutePlanViewControllerWithOptions:nil];  // 通过present的方式显示路线规划页面
 }
 
-
 #pragma mark - AMapNaviCompositeManagerDelegate
 
 // 发生错误时,会调用代理的此方法

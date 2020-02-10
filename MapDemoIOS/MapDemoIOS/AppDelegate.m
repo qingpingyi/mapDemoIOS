@@ -11,9 +11,8 @@
 #import "ViewController.h"
 
 @interface AppDelegate ()
+
 @property (strong, nonatomic) UIViewController *viewController;
-
-
 @end
 
 @implementation AppDelegate
